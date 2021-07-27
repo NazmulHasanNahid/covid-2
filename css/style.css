@@ -1,0 +1,106 @@
+/* common styles */
+body{
+  font-family: 'Inter', sans-serif;
+  text-transform: capitalize;
+}
+
+/* 1s section styles */
+.red{
+  color: red;
+}
+.medium-font{
+  font-size: 22px;
+}
+.bold-text{
+  font-size: 62px;
+  font-weight: 700;
+}
+.bg-img{
+  background-image: url("../images/left-corona-bg.svg");
+  background-repeat: no-repeat;
+}
+.button{
+  color: white;
+  text-decoration: none;
+  background-color: #44B564;
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+.custom-color{
+  color:#44B564 ;
+}
+.text-align{
+  text-align: center;
+}
+.fa-arrow-right{
+  width: 10px;
+}
+.align-h{
+  text-align: center;
+}
+u{
+  color: #44B564;
+  font-weight: 600;
+}
+.covid-logo{
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.covid-2ndlogo{
+  background-image: url("../images/Symptoms-Corona.png");
+  background-repeat: no-repeat; 
+}
+.fa-mobile-alt{
+  color:#44B564 ;
+  font-size: 50px;
+}
+.footer-style{
+  display: flex;
+  justify-content: space-between;
+}
+.last-button{
+  text-decoration: none;
+}
+.footer-p{
+  text-align: justify;
+}
+.signup-button{
+  display: flex;
+  justify-content:space-evenly;
+}
+.button-sign{
+ background-color: aliceblue;
+}
+.bg-custom{
+  background-color:#44B564  ;
+}
+hr{
+ color: white;
+}
+.stay{
+  font-weight: 700;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(187, 228, 74);
+}
+/* fontawesome style */
+.fa-facebook{
+  color: #4267B2;
+}
+.fa-instagram{
+  color: #8a3ab9;
+}
+.fa-twitter-square{
+  color:skyblue;
+}
+.fa-linkedin{
+  color: #0e76a8;
+}
+.fa-google-plus{
+  color:#e613c9;
+}
+.fab{
+  font-size: 30px;
+  margin: 10px;
+}
